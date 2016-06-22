@@ -1,0 +1,5 @@
+c:\Projects\EmitCalculator\EmitCalculator\bin\Debug\EmitCalculator.exe.config
+c:\Projects\EmitCalculator\EmitCalculator\bin\Debug\EmitCalculator.exe
+c:\Projects\EmitCalculator\EmitCalculator\bin\Debug\EmitCalculator.pdb
+c:\Projects\EmitCalculator\EmitCalculator\obj\Debug\EmitCalculator.exe
+c:\Projects\EmitCalculator\EmitCalculator\obj\Debug\EmitCalculator.pdb
